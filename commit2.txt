@@ -7,3 +7,4 @@ Su Mo Tu We Th Fr Sa
 23 24 25 26 27 28 29
 30                  
 this will serve as commit 2
+This will serve as a squash commit 1
